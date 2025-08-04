@@ -22,3 +22,12 @@ header h1 {
   margin: 0;
   color: #007BFF;
 }
+.section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #007BFF;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
