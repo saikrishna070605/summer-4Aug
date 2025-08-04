@@ -12,3 +12,10 @@ body {
   padding: 30px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+header {
+  text-align: center;
+  border-bottom: 2px solid #007BFF;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
